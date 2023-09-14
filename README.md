@@ -1,0 +1,2 @@
+# trialy
+new manegement document
